@@ -1,0 +1,11 @@
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\bin\Debug\thi_giua_ky.exe.config
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\bin\Debug\thi_giua_ky.exe
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\bin\Debug\thi_giua_ky.pdb
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.csprojAssemblyReference.cache
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.Form1.resources
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.Form2.resources
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.Properties.Resources.resources
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.csproj.GenerateResource.cache
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.csproj.CoreCompileInputs.cache
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.exe
+C:\Users\DUC\source\repos\thi_giua_ky\thi_giua_ky\obj\Debug\thi_giua_ky.pdb
